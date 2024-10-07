@@ -1,2 +1,2 @@
 # sv08
-Sovol SV08 community wiki
+Sovol SV08 backup
